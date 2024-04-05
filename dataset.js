@@ -1,5 +1,3 @@
-var data = [
-    "certification" = [
-        "course" = "name of course"
-    ]
-]
+var data = {
+    "certification" : "some text"
+}
