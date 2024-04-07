@@ -43,8 +43,23 @@
                 "3" : "Using tools for simulation and analysis: MATLAB, COMSOL, MAPLE, TECPLOT"
             }
         }
+    },
+    "paper" : {
+        "0" : {
+            "head" : "Effect of various shaped Al2O3 and TiO2 nanoparticles on water-based MHD nanofluid flow through convergent divergent channels.",
+            "link" : "https://ph02.tci-thaijo.org/index.php/SciTechAsia/article/view/241185",
+            "date" : "2021"
+        },
+        "1" : {
+            "head" : "Analysis of magnetohydrodynamic Jeffery-Hamel flow in a convergent-divergent channel using Cu water nanofluid.",
+            "link" : "https://www.banglajol.info/index.php/JES/article/view/54633",
+            "date" : "2021"
+        },
+        "2" : {
+            "head" : "Study on magnetohydrodynamics Cu-water nanofluid flow with different shapes of nanoparticles in a divergent channel.",
+            "link" : "https://www.banglajol.info/index.php/GANIT/article/view/57573",
+            "date" : "2021"
+        }
     }
 }
-
-
 
