@@ -19,7 +19,7 @@
                 "2" : "K-means Clustering the level of Fuel Consumption based on different parameters."
             }   
         }
-    }
+    },
     "experiences" : {
         "0" : {
             "head" : "Student Researcher - CFD Lab, Jagannath University",
