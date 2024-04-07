@@ -18,17 +18,21 @@
                 "1" : "Predict the CO2 Emission based on Linear Regression model and evaluation of the model.",
                 "2" : "K-means Clustering the level of Fuel Consumption based on different parameters."
             }   
-        },
-        "2" : {
-            "link" : "https://www.kaggle.com/code/ashikchandradas/co2-emission-regression-analysis-and-visualization",
-            "linkText" : "explore now 🔗",
-            "heading" : "CO2 emission: Regression Analysis with Visualization.",
+        }
+    }
+    "experiences" : {
+        "0" : {
+            "head" : "Student Researcher - CFD Lab, Jagannath University",
+            "date" : "(Sept 2019 - Nov 2021)",
             "list" : {
-                "0" : "mpact of Engine Size in the Fuel Consumption and CO2 Emission.",
-                "1" : "Predict the CO2 Emission based on Linear Regression model and evaluation of the model.",
-                "2" : "K-means Clustering the level of Fuel Consumption based on different parameters."
-            }   
+                "0" : "Research fellowship at Department of Mathematics under Jagannath University Development Project.",
+                "1" : "Focus is on studying the Jeffery-Hamel flow and its correspondence to the Navier-Stokes equation in the field of Computational Fluid Dynamics (CFD).",
+                "2" : "Published three research papers in different journals.",
+                "3" : "Using tools for simulation and analysis: MATLAB, COMSOL, MAPLE, TECPLOT"
+            }
         }
     }
 }
+
+
 
