@@ -23,6 +23,18 @@
     "experiences" : {
         "0" : {
             "head" : "Student Researcher - CFD Lab, Jagannath University",
+            "active" : "1",
+            "date" : "(Sept 2019 - Nov 2021)",
+            "list" : {
+                "0" : "Research fellowship at Department of Mathematics under Jagannath University Development Project.",
+                "1" : "Focus is on studying the Jeffery-Hamel flow and its correspondence to the Navier-Stokes equation in the field of Computational Fluid Dynamics (CFD).",
+                "2" : "Published three research papers in different journals.",
+                "3" : "Using tools for simulation and analysis: MATLAB, COMSOL, MAPLE, TECPLOT"
+            }
+        }
+        "0" : {
+            "head" : "test 2",
+            "active" : "0",
             "date" : "(Sept 2019 - Nov 2021)",
             "list" : {
                 "0" : "Research fellowship at Department of Mathematics under Jagannath University Development Project.",
