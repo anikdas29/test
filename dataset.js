@@ -31,7 +31,7 @@
                 "2" : "Published three research papers in different journals.",
                 "3" : "Using tools for simulation and analysis: MATLAB, COMSOL, MAPLE, TECPLOT"
             }
-        }
+        },
         "0" : {
             "head" : "test 2",
             "active" : "0",
