@@ -68,6 +68,13 @@
             "link" : "https://www.banglajol.info/index.php/GANIT/article/view/57573",
             "date" : "2021"
         }
+    },
+    "conference" : {
+        "0" : {
+            "head" : "Application of Mathematics in Science and Engineering - Webinar",
+            "place" : "Jagannath University, September 2021",
+            "title" : "Effect of various shaped Al2O3 and TiO2 nanoparticles on water-based MHD nanofluid flow through convergent divergent channels."
+        }
     }
 }
 
