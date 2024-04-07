@@ -1,4 +1,12 @@
 {
+    "certification" : {
+      "0" : {
+          "head" : "Google Advanced Data Analytics Professional",
+          "date" : "March 2024",
+          "link" : "https://www.coursera.org/account/accomplishments/professional-cert/F6XQ49MEKS2G",
+          "courses" : "Foundation of Data Science, Get started with Python, Go Beyond the Numbers: Translate Data into Insights, The Power of Statistics, Regression Analysis: Simplify Complex Data Relationships, The Nuts and Bolts of Machine learning, Google Advanced Data Analytics Capstone"
+      }  
+    },
     "project" : {
         "0" : {
             "link" : "https://www.kaggle.com/code/ashikchandradas/exploring-indoor-plant-diversity/notebook",
