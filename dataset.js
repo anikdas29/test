@@ -41,14 +41,14 @@
             }
         },
         "1" : {
-            "head" : "test 2",
+            "head" : "Data Analyst - Label IT BD",
             "active" : "0",
-            "date" : "(Sept 2019 - Nov 2021)",
+            "date" : "(April 2022 - Current)",
             "list" : {
-                "0" : "Research fellowship at Department of Mathematics under Jagannath University Development Project.",
-                "1" : "Focus is on studying the Jeffery-Hamel flow and its correspondence to the Navier-Stokes equation in the field of Computational Fluid Dynamics (CFD).",
-                "2" : "Published three research papers in different journals.",
-                "3" : "Using tools for simulation and analysis: MATLAB, COMSOL, MAPLE, TECPLOT"
+                "0" : "As a remote data analyst, my role is to collect, process, and analyze large, complex, structured and unstructured data sets",
+                "1" : "Interpret website data to inform pricing decisions based on the influence of user age and gender.",
+                "2" : "Optimizing user experience by analyzing browsing equipment and browsers and enabling targeted marketing strategies by analyzing user location data.",
+                "3" : "Produce reports and visualizations of these data that helps decision-making and drive outcomes business intelligence."
             }
         }
     },
